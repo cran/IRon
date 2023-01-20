@@ -1,4 +1,4 @@
-e22a5bf15b344a21afd5db074674c81f *DESCRIPTION
+609792cfebc53b26d7ab0a6d037c7667 *DESCRIPTION
 fa4d7b63d3429fdfab9afc9e00c008ca *NAMESPACE
 ca46469fa9906cab6b0c5f342600a523 *R/data.R
 7ba2c555f327b1a97ad8c25ad93f5e5a *R/evalStats.R
@@ -32,4 +32,4 @@ da4361a5b6ec5d84a8d3f33e5c821f0d *src/pchip.h
 6179e3d1c04d4e68fe0e4ea6bb4746ef *src/phi.c
 0f54cbf95d0cc3fc77b557026e2757c6 *src/phi.h
 b795eb57c6047ec63a6c5a43787c3612 *src/util.c
-0e5269c4c850cef8aa4addf6594dce25 *src/util.h
+3b4cf83958e300de0d22a5b7b8ee98f2 *src/util.h
